@@ -1,4 +1,3 @@
-"use client";
 import { useState } from "react";
 import { forwardChaining, ScoredResult } from "../lib/forwardChaining";
 import Button from "./Button";
